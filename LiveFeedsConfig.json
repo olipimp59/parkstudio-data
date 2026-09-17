@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "universalPrimary": "uorDirect",
+  "universalFallback": "queueTimes",
+  "disneyPrimary": "themeparksWiki",
+  "disneyFallback": "queueTimes",
+  "universalCustomAttribution": null,
+  "disneyCustomAttribution": null,
+  "uorAttractionsURL": "https://assets.universalparks.com/uor/wait-time/wait-time-attraction-list.json",
+  "uorShowsURL": "https://assets.universalparks.com/uor/shows/show-list.json",
+  "themeparksBaseURL": "https://api.themeparks.wiki/v1/entity",
+  "queueTimesBaseURL": "https://queue-times.com/parks",
+  "parkQueueTimesBaseURL": "https://api.parkqueuetimes.com/v1",
+  "parkQueueTimesAPIKey": "pqt_live_7CHyofMgJUvG7nStfjCnGR1FoEWeLvjzV7hwZLtWd2E"
+}
