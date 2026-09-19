@@ -2499,6 +2499,8 @@
           "single": null,
           "showtimes": [],
           "area": null,
+          "locationName": "Cinderella Castle",
+          "eyebrowIcon": "sparkles",
           "status": "closed",
           "externalIDs": {
             "themeparks": "22b78ed9-a692-47cb-b6a4-6d1224ff67e3",
