@@ -1,5 +1,24 @@
 {
   "schemaVersion": 1,
+  "prioritySystems": {
+    "waltDisneyWorld": {
+      "brand": "Lightning Lane",
+      "shortPrefix": "LL",
+      "tiers": {
+        "tier_multi": { "name": "Multi Pass", "badge": "LL MULTI" },
+        "tier_single": { "name": "Single Pass", "badge": "LL SINGLE" },
+        "tier_premier": { "name": "Premier Pass", "badge": "LL PREMIER" }
+      }
+    },
+    "universalOrlando": {
+      "brand": "Universal Express",
+      "shortPrefix": "EXPRESS",
+      "tiers": {
+        "tier_standard": { "name": "Express Pass", "badge": "EXPRESS" },
+        "tier_unlimited": { "name": "Express Unlimited", "badge": "EXPRESS UNLIMITED" }
+      }
+    }
+  },
   "parks": [
     {
       "venueID": "uor.ioa",
@@ -617,7 +636,7 @@
           "express": null,
           "single": null,
           "showtimes": [
-            "DUSK"
+            "AT DUSK"
           ],
           "area": "Hogsmeade",
           "status": "operating",
@@ -628,8 +647,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "projection",
-            "nighttime_spectacular"
+            "nighttime_spectacular",
+            "castle_projection"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -1646,8 +1665,8 @@
             "nighttime",
             "nighttime_spectacular",
             "fireworks",
-            "water",
-            "spectacular"
+            "drones",
+            "fountains"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -2091,8 +2110,9 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "water",
-            "nighttime_spectacular"
+            "nighttime_spectacular",
+            "fireworks",
+            "fountains"
           ],
           "showCategory": "stage_show",
           "tips": [],
@@ -2261,8 +2281,9 @@
           "tags": [
             "stage_show",
             "nighttime",
+            "nighttime_spectacular",
             "fireworks",
-            "nighttime_spectacular"
+            "castle_projection"
           ],
           "showCategory": "stage_show",
           "tips": [],
@@ -2341,6 +2362,7 @@
           },
           "tags": [
             "parade",
+            "night_parade",
             "nighttime",
             "family"
           ],
@@ -2356,7 +2378,9 @@
           "express": null,
           "single": null,
           "showtimes": [],
-          "area": null,
+          "area": "Main Street, U.S.A.",
+          "locationName": "Casey's Corner",
+          "eyebrowIcon": "music.note",
           "status": "operating",
           "externalIDs": {
             "themeparks": "a0613b70-293f-4a5b-8169-357be1777c62",
@@ -2364,7 +2388,13 @@
           },
           "tags": [
             "stage_show",
-            "music"
+            "music",
+            "live_music",
+            "piano"
+          ],
+          "displayTags": [
+            "live_music",
+            "piano"
           ],
           "showCategory": "stage_show",
           "tips": [],
@@ -2387,8 +2417,47 @@
           "tags": [
             "family",
             "coaster",
-            "dark_ride"
+            "dark_ride",
+            "must_do"
           ],
+          "displayTags": [
+            "family_coaster",
+            "ll_single"
+          ],
+          "priorityTiers": [
+            "tier_single"
+          ],
+          "specs": {
+            "durationSeconds": 170,
+            "thrillLevel": "moderate",
+            "speedMph": 34.0,
+            "dropFeet": 39.0,
+            "inversions": 0
+          },
+          "features": {
+            "hasSingleRider": false,
+            "hasPhotoPass": true,
+            "hasPriorityPass": true,
+            "hasRiderSwap": true
+          },
+          "experience": {
+            "targetAudience": "family",
+            "targetAges": [
+              "all_ages",
+              "kids",
+              "tweens",
+              "teens",
+              "adults"
+            ],
+            "isMustDo": true,
+            "wetFactor": "none"
+          },
+          "accessibility": {
+            "wheelchairTransfer": "must_transfer",
+            "serviceAnimalsAllowed": false,
+            "audioDescription": true,
+            "handheldCaptioning": false
+          },
           "rideCategory": "coaster_family",
           "minHeightInches": 38,
           "tips": [
@@ -2438,8 +2507,9 @@
           "tags": [
             "stage_show",
             "nighttime",
+            "nighttime_spectacular",
             "fireworks",
-            "nighttime_spectacular"
+            "castle_projection"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -2482,16 +2552,17 @@
           "single": null,
           "showtimes": [],
           "area": null,
-          "status": "operating",
+          "status": "closed",
           "externalIDs": {
             "themeparks": "05ca3e51-580b-44ca-8046-7d3e57a6d248",
-            "parkQueueTimes": "disneys-not-so-spooky-spectacular-at-mickeys-not-so-scary-halloween-party"
+            "parkQueueTimes": "disney's-not-so-spooky-spectacular-at-mickey's-not-so-scary-halloween-party"
           },
           "tags": [
             "stage_show",
             "nighttime",
+            "nighttime_spectacular",
             "fireworks",
-            "nighttime_spectacular"
+            "castle_projection"
           ],
           "showCategory": "stage_show",
           "tips": [],
@@ -4367,9 +4438,9 @@
           "tags": [
             "stage_show",
             "nighttime",
+            "nighttime_spectacular",
             "fireworks",
-            "water",
-            "nighttime_spectacular"
+            "fountains"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -5616,8 +5687,9 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "spectacular",
-            "nighttime_spectacular"
+            "nighttime_spectacular",
+            "water_projection",
+            "fireworks"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -6521,8 +6593,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "projection",
-            "nighttime_spectacular"
+            "nighttime_spectacular",
+            "projection"
           ],
           "showCategory": "stage_show",
           "tips": [],
