@@ -5,7 +5,7 @@
       "venueID": "uor.ioa",
       "name": "Islands of Adventure",
       "city": "Orlando",
-      "openText": "9:00 AM – 8:00 PM",
+      "openText": "9:00 AM \u2013 8:00 PM",
       "isOpen": true,
       "resort": "universalOrlando",
       "externalIDs": {
@@ -15,7 +15,7 @@
       "attractions": [
         {
           "id": "uor.ioa.rides.caro-seuss-el",
-          "name": "Caro-Seuss-el™",
+          "name": "Caro-Seuss-el\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -43,7 +43,7 @@
         },
         {
           "id": "uor.ioa.rides.doctor_dooms_fearfall",
-          "name": "Doctor Doom's Fearfall®",
+          "name": "Doctor Doom's Fearfall\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -56,10 +56,10 @@
             "parkQueueTimes": "ioa.rides.doctor_dooms_fearfall"
           },
           "tags": [
-            "thrill",
-            "drop_tower"
+            "drop_tower",
+            "thrill"
           ],
-          "rideCategory": "scenic_flat",
+          "rideCategory": "drop_tower",
           "minHeightInches": 52,
           "tips": [
             {
@@ -70,7 +70,7 @@
         },
         {
           "id": "uor.ioa.rides.dudley_do_rights_ripsaw_falls",
-          "name": "Dudley Do-Right's Ripsaw Falls®",
+          "name": "Dudley Do-Right's Ripsaw Falls\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -98,7 +98,7 @@
         },
         {
           "id": "uor.ioa.rides.flight_of_the_hippogriff",
-          "name": "Flight of the Hippogriff™",
+          "name": "Flight of the Hippogriff\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -127,7 +127,7 @@
         },
         {
           "id": "uor.ioa.rides.hagrids_magical_motorcycle_adventure",
-          "name": "Hagrid's Magical Creatures Motorbike Adventure™",
+          "name": "Hagrid's Magical Creatures Motorbike Adventure\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -164,7 +164,7 @@
         },
         {
           "id": "uor.ioa.rides.harry_potter_and_the_forbidden_journey",
-          "name": "Harry Potter and the Forbidden Journey™",
+          "name": "Harry Potter and the Forbidden Journey\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -177,11 +177,12 @@
             "parkQueueTimes": "ioa.rides.harry_potter_and_the_forbidden_journey"
           },
           "tags": [
-            "thrill",
             "dark_ride",
+            "early_entry",
             "indoor",
+            "motion_sim",
             "single_rider",
-            "early_entry"
+            "thrill"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": 48,
@@ -198,7 +199,7 @@
         },
         {
           "id": "uor.ioa.rides.hogwarts_express_-_hogsmeade_station",
-          "name": "Hogwarts Express™ - Hogsmeade™ Station",
+          "name": "Hogwarts Express\u2122 - Hogsmeade\u2122 Station",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -239,9 +240,10 @@
             "parkQueueTimes": "ioa.rides.jurassic_park_river_adventure"
           },
           "tags": [
-            "water",
+            "animatronics",
+            "dark_ride",
             "thrill",
-            "animatronics"
+            "water"
           ],
           "rideCategory": "water",
           "minHeightInches": 42,
@@ -282,13 +284,13 @@
             },
             {
               "category": "queue_hack",
-              "text": "Use the double-sided lockers right inside the queue before the metal detectors — they are free for the duration of your ride."
+              "text": "Use the double-sided lockers right inside the queue before the metal detectors \u2014 they are free for the duration of your ride."
             }
           ]
         },
         {
           "id": "uor.ioa.rides.one_fish_two_fish_red_fish_blue_fish",
-          "name": "One Fish, Two Fish, Red Fish, Blue Fish™",
+          "name": "One Fish, Two Fish, Red Fish, Blue Fish\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -316,7 +318,7 @@
         },
         {
           "id": "uor.ioa.rides.popeye_blutos_bilge_rat_barges",
-          "name": "Popeye & Bluto's Bilge-Rat Barges®",
+          "name": "Popeye & Bluto's Bilge-Rat Barges\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -401,7 +403,7 @@
         },
         {
           "id": "uor.ioa.rides.storm_force_accelatron",
-          "name": "Storm Force Accelatron®",
+          "name": "Storm Force Accelatron\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -428,7 +430,7 @@
         },
         {
           "id": "uor.ioa.rides.the_amazing_adventures_of_spider_man",
-          "name": "The Amazing Adventures of Spider-Man®",
+          "name": "The Amazing Adventures of Spider-Man\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -457,7 +459,7 @@
         },
         {
           "id": "uor.ioa.rides.the_cat_in_the_hat",
-          "name": "The Cat in The Hat™",
+          "name": "The Cat in The Hat\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -479,13 +481,13 @@
           "tips": [
             {
               "category": "secret",
-              "text": "Notice how all architectural lines, door frames, and props have curved edges — Dr. Seuss never drew a single straight line."
+              "text": "Notice how all architectural lines, door frames, and props have curved edges \u2014 Dr. Seuss never drew a single straight line."
             }
           ]
         },
         {
           "id": "uor.ioa.rides.the_high_in_the_sky_seuss_trolley_train_ride!",
-          "name": "The High in the Sky Seuss Trolley Train Ride!™",
+          "name": "The High in the Sky Seuss Trolley Train Ride!\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -512,7 +514,7 @@
         },
         {
           "id": "uor.ioa.rides.the_incredible_hulk_coaster",
-          "name": "The Incredible Hulk Coaster®",
+          "name": "The Incredible Hulk Coaster\u00ae",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -541,7 +543,7 @@
         },
         {
           "id": "uor.ioa.shows.ollivanders",
-          "name": "Ollivanders™ Experience in Hogsmeade™",
+          "name": "Ollivanders\u2122 Experience in Hogsmeade\u2122",
           "kind": "ride",
           "standby": 10,
           "express": null,
@@ -591,7 +593,7 @@
         },
         {
           "id": "uor.ioa.shows.darkartsathogwartscastle",
-          "name": "Dark Arts at Hogwarts™ Castle",
+          "name": "Dark Arts at Hogwarts\u2122 Castle",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -603,7 +605,7 @@
           "status": "operating",
           "externalIDs": {
             "uor": "uor.ioa.shows.darkartsathogwartscastle",
-            "parkQueueTimes": "dark-arts-at-hogwarts™-castle"
+            "parkQueueTimes": "dark-arts-at-hogwarts\u2122-castle"
           },
           "tags": [
             "stage_show",
@@ -643,19 +645,19 @@
         },
         {
           "id": "uor.ioa.shows.meet_spider_man_and_the_marvel_super_heroes",
-          "name": "Meet Spider-Man and the Marvel® Super Heroes",
+          "name": "Meet Spider-Man and the Marvel\u00ae Super Heroes",
           "kind": "show",
           "standby": null,
           "express": null,
           "single": null,
           "showtimes": [
-            "9:45 AM – 5:00 PM"
+            "9:45 AM \u2013 5:00 PM"
           ],
           "area": "Marvel Super Hero Island",
           "status": "closed",
           "externalIDs": {
             "uor": "uor.ioa.shows.meet_spider_man_and_the_marvel_super_heroes",
-            "parkQueueTimes": "meet-spider-man-and-the-marvel®-super-heroes"
+            "parkQueueTimes": "meet-spider-man-and-the-marvel\u00ae-super-heroes"
           },
           "tags": [
             "meet",
@@ -667,7 +669,7 @@
         },
         {
           "id": "uor.ioa.shows.oh!.the.stories.youll.hear!",
-          "name": "Oh! The Stories You'll Hear!™",
+          "name": "Oh! The Stories You'll Hear!\u2122",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -677,7 +679,7 @@
           "status": "closed",
           "externalIDs": {
             "uor": "uor.ioa.shows.oh!.the.stories.youll.hear!",
-            "parkQueueTimes": "oh!-the-stories-youll-hear!™"
+            "parkQueueTimes": "oh!-the-stories-youll-hear!\u2122"
           },
           "tags": [
             "stage_show",
@@ -764,7 +766,7 @@
       "venueID": "uor.usf",
       "name": "Universal Studios Florida",
       "city": "Orlando",
-      "openText": "9:00 AM – 7:00 PM",
+      "openText": "9:00 AM \u2013 7:00 PM",
       "isOpen": true,
       "resort": "universalOrlando",
       "externalIDs": {
@@ -774,7 +776,7 @@
       "attractions": [
         {
           "id": "uor.usf.rides.despicable_me_minion_mayhem",
-          "name": "Despicable Me Minion Mayhem™",
+          "name": "Despicable Me Minion Mayhem\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -788,11 +790,12 @@
           },
           "tags": [
             "dark_ride",
+            "early_entry",
             "family",
-            "simulator",
-            "early_entry"
+            "motion_sim",
+            "simulator"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
@@ -831,7 +834,7 @@
         },
         {
           "id": "uor.usf.rides.harry_potter_and_the_escape_from_gringotts",
-          "name": "Harry Potter and the Escape from Gringotts™",
+          "name": "Harry Potter and the Escape from Gringotts\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -855,13 +858,13 @@
           "tips": [
             {
               "category": "best_seat",
-              "text": "Back rows (Rows 5–6) experience a noticeably steeper, faster sensation on the initial 40-foot track drop."
+              "text": "Back rows (Rows 5\u20136) experience a noticeably steeper, faster sensation on the initial 40-foot track drop."
             }
           ]
         },
         {
           "id": "uor.usf.rides.hogwarts_express_-_kings_cross_station",
-          "name": "Hogwarts Express™ - King's Cross Station",
+          "name": "Hogwarts Express\u2122 - King's Cross Station",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -945,7 +948,7 @@
         },
         {
           "id": "uor.usf.rides.men_in_black_alien_attack",
-          "name": "MEN IN BLACK™ Alien Attack!",
+          "name": "MEN IN BLACK\u2122 Alien Attack!",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1032,7 +1035,7 @@
         },
         {
           "id": "uor.usf.rides.the_simpsons_ride",
-          "name": "The Simpsons Ride™",
+          "name": "The Simpsons Ride\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1047,9 +1050,10 @@
           "tags": [
             "dark_ride",
             "family",
+            "motion_sim",
             "simulator"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
@@ -1060,7 +1064,7 @@
         },
         {
           "id": "uor.usf.rides.transformers_the_ride_3d",
-          "name": "TRANSFORMERS™ The Ride-3D",
+          "name": "TRANSFORMERS\u2122 The Ride-3D",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1112,7 +1116,7 @@
         },
         {
           "id": "uor.usf.shows.ollivanders",
-          "name": "Ollivanders™ Experience in Diagon Alley™",
+          "name": "Ollivanders\u2122 Experience in Diagon Alley\u2122",
           "kind": "ride",
           "standby": 10,
           "express": null,
@@ -1271,7 +1275,7 @@
         },
         {
           "id": "uor.usf.show.shreks.swamp.meet",
-          "name": "Shrek’s Swamp Meet",
+          "name": "Shrek\u2019s Swamp Meet",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1293,7 +1297,7 @@
         },
         {
           "id": "uor.usf.shows.animal_actors_on_location",
-          "name": "Animal Actors on Location!™",
+          "name": "Animal Actors on Location!\u2122",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1303,7 +1307,7 @@
           "status": "closed",
           "externalIDs": {
             "uor": "uor.usf.shows.animal_actors_on_location",
-            "parkQueueTimes": "animal-actors-on-location!™"
+            "parkQueueTimes": "animal-actors-on-location!\u2122"
           },
           "tags": [
             "stage_show",
@@ -1337,7 +1341,7 @@
         },
         {
           "id": "uor.usf.shows.blues_brothers",
-          "name": "The Blues Brothers® Show",
+          "name": "The Blues Brothers\u00ae Show",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1347,7 +1351,7 @@
           "status": "closed",
           "externalIDs": {
             "uor": "uor.usf.shows.blues_brothers",
-            "parkQueueTimes": "the-blues-brothers®-show"
+            "parkQueueTimes": "the-blues-brothers\u00ae-show"
           },
           "tags": [
             "stage_show",
@@ -1468,7 +1472,7 @@
         },
         {
           "id": "uor.usf.shows.meet_the_transformers",
-          "name": "Meet The TRANSFORMERS™",
+          "name": "Meet The TRANSFORMERS\u2122",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1478,7 +1482,7 @@
           "status": "closed",
           "externalIDs": {
             "uor": "uor.usf.shows.meet_the_transformers",
-            "parkQueueTimes": "meet-the-transformers™"
+            "parkQueueTimes": "meet-the-transformers\u2122"
           },
           "tags": [
             "meet",
@@ -1544,7 +1548,7 @@
         },
         {
           "id": "uor.usf.shows.vamos_bailalo",
-          "name": "¡Vamos! – Báilalo",
+          "name": "\u00a1Vamos! \u2013 B\u00e1ilalo",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1554,7 +1558,7 @@
           "status": "closed",
           "externalIDs": {
             "uor": "uor.usf.shows.vamos_bailalo",
-            "parkQueueTimes": "¡vamos!-–-báilalo"
+            "parkQueueTimes": "\u00a1vamos!-\u2013-b\u00e1ilalo"
           },
           "tags": [
             "stage_show",
@@ -1600,7 +1604,7 @@
       "venueID": "uor.eu",
       "name": "Epic Universe",
       "city": "Orlando",
-      "openText": "8:00 AM – 9:00 PM",
+      "openText": "8:00 AM \u2013 9:00 PM",
       "isOpen": true,
       "resort": "universalOrlando",
       "externalIDs": {
@@ -1723,7 +1727,7 @@
         },
         {
           "id": "uor.ueu.rides.harry_potter_and_the_battle_at_the_ministry",
-          "name": "Harry Potter and the Battle at the Ministry™",
+          "name": "Harry Potter and the Battle at the Ministry\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1775,7 +1779,7 @@
         },
         {
           "id": "uor.ueu.rides.mario_cart_bowsers_challenge",
-          "name": "Mario Kart™: Bowser's Challenge",
+          "name": "Mario Kart\u2122: Bowser's Challenge",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1799,13 +1803,13 @@
           "tips": [
             {
               "category": "queue_hack",
-              "text": "Turn your head to aim your shell fire at targets — the AR visor tracks where your gaze is focused."
+              "text": "Turn your head to aim your shell fire at targets \u2014 the AR visor tracks where your gaze is focused."
             }
           ]
         },
         {
           "id": "uor.ueu.rides.mine-cart_madness",
-          "name": "Mine-Cart Madness™",
+          "name": "Mine-Cart Madness\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1886,7 +1890,7 @@
         },
         {
           "id": "uor.ueu.rides.yoshis_adventure",
-          "name": "Yoshi's Adventure™",
+          "name": "Yoshi's Adventure\u2122",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -1932,7 +1936,7 @@
         },
         {
           "id": "uor.ueu.show.le_cirque_arcanus",
-          "name": "Le Cirque Arcanus™",
+          "name": "Le Cirque Arcanus\u2122",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -1942,7 +1946,7 @@
           "status": "operating",
           "externalIDs": {
             "uor": "uor.ueu.show.le_cirque_arcanus",
-            "parkQueueTimes": "le-cirque-arcanus™"
+            "parkQueueTimes": "le-cirque-arcanus\u2122"
           },
           "tags": [
             "stage_show",
@@ -2047,7 +2051,7 @@
       "venueID": "75ea578a-adc8-4116-a54d-dccb60765ef9",
       "name": "Magic Kingdom",
       "city": "Orlando",
-      "openText": "9:00 AM – 9:00 PM",
+      "openText": "9:00 AM \u2013 9:00 PM",
       "isOpen": true,
       "resort": "waltDisneyWorld",
       "externalIDs": {
@@ -2057,7 +2061,7 @@
       "attractions": [
         {
           "id": "c1f39c15-7845-46b5-b6fd-2ae368a32a37",
-          "name": "Captain Jack’s Buccaneer Bash at Mickey’s Not-So-Scary Halloween Party",
+          "name": "Captain Jack\u2019s Buccaneer Bash at Mickey\u2019s Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2078,7 +2082,7 @@
         },
         {
           "id": "97c837c3-4a0f-4d52-b93c-074cf31d6f41",
-          "name": "Stitch’s Masquerade Mashup at Mickey’s Not-So-Scary Halloween Party",
+          "name": "Stitch\u2019s Masquerade Mashup at Mickey\u2019s Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2233,7 +2237,7 @@
           "tips": [
             {
               "category": "secret",
-              "text": "Cinderella's own horse has a golden ribbon tied around its tail — look for it in the second row from the outside."
+              "text": "Cinderella's own horse has a golden ribbon tied around its tail \u2014 look for it in the second row from the outside."
             }
           ]
         },
@@ -2310,7 +2314,7 @@
         },
         {
           "id": "9221e600-6715-4b4f-b39a-00c318c00e03",
-          "name": "Destination DescenDANCE Party at Mickey’s Not-So-Scary Halloween Party",
+          "name": "Destination DescenDANCE Party at Mickey\u2019s Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2359,7 +2363,7 @@
         },
         {
           "id": "5c00cd7c-b207-4d9d-9c8c-a8d418fc5425",
-          "name": "Mickey’s Boo-To-You Halloween Parade at Mickey's Not-So-Scary Halloween Party",
+          "name": "Mickey\u2019s Boo-To-You Halloween Parade at Mickey's Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2381,7 +2385,7 @@
         },
         {
           "id": "05ca3e51-580b-44ca-8046-7d3e57a6d248",
-          "name": "Disney’s Not-So-Spooky Spectacular at Mickey's Not-So-Scary Halloween Party",
+          "name": "Disney\u2019s Not-So-Spooky Spectacular at Mickey's Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2518,7 +2522,7 @@
         },
         {
           "id": "a74421f2-5de4-4425-bd06-8b4639b29826",
-          "name": "Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party",
+          "name": "Meet Festive Disney Pals at Mickey\u2019s Not-So-Scary Halloween Party",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2743,7 +2747,7 @@
         },
         {
           "id": "72c7343a-f7fb-4f66-95df-c91016de7338",
-          "name": "Buzz Lightyear’s Space Ranger Spin",
+          "name": "Buzz Lightyear\u2019s Space Ranger Spin",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -2853,7 +2857,7 @@
         },
         {
           "id": "e0cd6a94-6dbe-4f52-aaa8-b3d2fdf5f2f6",
-          "name": "Jessie’s Roundup: A Rip-Roarin’ Revue!",
+          "name": "Jessie\u2019s Roundup: A Rip-Roarin\u2019 Revue!",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -2896,7 +2900,7 @@
           "tips": [
             {
               "category": "secret",
-              "text": "Glides through the interior of Space Mountain and Buzz Lightyear — ideal for resting your feet without waiting."
+              "text": "Glides through the interior of Space Mountain and Buzz Lightyear \u2014 ideal for resting your feet without waiting."
             }
           ]
         },
@@ -2924,7 +2928,7 @@
           "tips": [
             {
               "category": "best_seat",
-              "text": "Request the very back car (Rows 14–15) — you get pulled over every hill with exhilarating negative G airtime."
+              "text": "Request the very back car (Rows 14\u201315) \u2014 you get pulled over every hill with exhilarating negative G airtime."
             }
           ]
         },
@@ -3463,7 +3467,7 @@
           "tips": [
             {
               "category": "secret",
-              "text": "Text in your own joke using the number displayed on the pre-show screens — Mike Wazowski might read it live."
+              "text": "Text in your own joke using the number displayed on the pre-show screens \u2014 Mike Wazowski might read it live."
             }
           ]
         },
@@ -3580,7 +3584,7 @@
           "tips": [
             {
               "category": "photo_spot",
-              "text": "Smile during the massive 50-foot drop into the bayou — the high-speed camera snaps just before the splashdown."
+              "text": "Smile during the massive 50-foot drop into the bayou \u2014 the high-speed camera snaps just before the splashdown."
             }
           ]
         },
@@ -3705,7 +3709,7 @@
       "venueID": "47f90d2c-e191-4239-a466-5892ef59a88b",
       "name": "EPCOT",
       "city": "Orlando",
-      "openText": "8:00 AM – 9:00 PM",
+      "openText": "8:00 AM \u2013 9:00 PM",
       "isOpen": true,
       "resort": "waltDisneyWorld",
       "externalIDs": {
@@ -3975,7 +3979,7 @@
         },
         {
           "id": "d6bb186c-382f-4ae6-bc76-fde8f141ed69",
-          "name": "Eat to the Beat Concert Series Presented by Enterprise® at EPCOT International Food & Wine Festival",
+          "name": "Eat to the Beat Concert Series Presented by Enterprise\u00ae at EPCOT International Food & Wine Festival",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -3985,7 +3989,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "d6bb186c-382f-4ae6-bc76-fde8f141ed69",
-            "parkQueueTimes": "eat-to-the-beat-concert-series-presented-by-enterprise®-at-epcot-international-food-&-wine-festival"
+            "parkQueueTimes": "eat-to-the-beat-concert-series-presented-by-enterprise\u00ae-at-epcot-international-food-&-wine-festival"
           },
           "tags": [
             "stage_show",
@@ -4038,7 +4042,7 @@
         },
         {
           "id": "76eadac1-cdfa-45e5-a25c-54ed4c3a604f",
-          "name": "Marimba de las Américas",
+          "name": "Marimba de las Am\u00e9ricas",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -4048,7 +4052,7 @@
           "status": "closed",
           "externalIDs": {
             "themeparks": "76eadac1-cdfa-45e5-a25c-54ed4c3a604f",
-            "parkQueueTimes": "marimba-de-las-américas"
+            "parkQueueTimes": "marimba-de-las-am\u00e9ricas"
           },
           "tags": [
             "stage_show",
@@ -4221,7 +4225,7 @@
         },
         {
           "id": "fd8afd63-0cb5-4f77-b47b-fb277f12d9f8",
-          "name": "¡Celebración Encanto!",
+          "name": "\u00a1Celebraci\u00f3n Encanto!",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -4231,7 +4235,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "fd8afd63-0cb5-4f77-b47b-fb277f12d9f8",
-            "parkQueueTimes": "¡celebración-encanto!"
+            "parkQueueTimes": "\u00a1celebraci\u00f3n-encanto!"
           },
           "tags": [
             "stage_show",
@@ -4696,7 +4700,7 @@
         },
         {
           "id": "18c533d6-a395-4ae4-9488-80fce9c497fe",
-          "name": "Palais du Cinéma",
+          "name": "Palais du Cin\u00e9ma",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -4706,7 +4710,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "18c533d6-a395-4ae4-9488-80fce9c497fe",
-            "parkQueueTimes": "palais-du-cinéma"
+            "parkQueueTimes": "palais-du-cin\u00e9ma"
           },
           "tags": [
             "family",
@@ -4957,11 +4961,12 @@
             "parkQueueTimes": "mission:-space"
           },
           "tags": [
-            "thrill",
+            "indoor",
+            "motion_sim",
             "simulator",
-            "indoor"
+            "thrill"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
@@ -5205,10 +5210,11 @@
           "tags": [
             "dark_ride",
             "family",
-            "simulator",
-            "scenic"
+            "motion_sim",
+            "scenic",
+            "simulator"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
@@ -5272,9 +5278,9 @@
     },
     {
       "venueID": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
-      "name": "Disney’s Hollywood Studios",
+      "name": "Disney\u2019s Hollywood Studios",
       "city": "Orlando",
-      "openText": "8:30 AM – 9:00 PM",
+      "openText": "8:30 AM \u2013 9:00 PM",
       "isOpen": true,
       "resort": "waltDisneyWorld",
       "externalIDs": {
@@ -5415,7 +5421,7 @@
           "tips": [
             {
               "category": "best_seat",
-              "text": "Sit in the middle tier rows of the amphitheater — front rows get misted by the water screens and miss high stage action."
+              "text": "Sit in the middle tier rows of the amphitheater \u2014 front rows get misted by the water screens and miss high stage action."
             }
           ]
         },
@@ -5442,7 +5448,7 @@
         },
         {
           "id": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
-          "name": "Rock ’n’ Roller Coaster Starring The Muppets",
+          "name": "Rock \u2019n\u2019 Roller Coaster Starring The Muppets",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -5557,7 +5563,7 @@
         },
         {
           "id": "d07a17c2-7720-4db7-b12a-a68ecdb51108",
-          "name": "Hollygroove Swingin’",
+          "name": "Hollygroove Swingin\u2019",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -5614,9 +5620,10 @@
           },
           "tags": [
             "dark_ride",
+            "immersive",
+            "motion_sim",
             "thrill",
-            "trackless",
-            "immersive"
+            "trackless"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": 40,
@@ -5629,7 +5636,7 @@
         },
         {
           "id": "6f6998e8-a629-412c-b964-2cb06af8e26b",
-          "name": "The Twilight Zone™ Tower of Terror",
+          "name": "The Twilight Zone\u2122 Tower of Terror",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -5639,14 +5646,14 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "6f6998e8-a629-412c-b964-2cb06af8e26b",
-            "parkQueueTimes": "the-twilight-zone™-tower-of-terror"
+            "parkQueueTimes": "the-twilight-zone\u2122-tower-of-terror"
           },
           "tags": [
-            "thrill",
+            "dark_ride",
             "drop_tower",
-            "dark_ride"
+            "thrill"
           ],
-          "rideCategory": "coaster_thrill",
+          "rideCategory": "drop_tower",
           "minHeightInches": 40,
           "tips": [
             {
@@ -5839,7 +5846,7 @@
         },
         {
           "id": "3b290419-8ca2-44bc-a710-a6c83fca76ec",
-          "name": "Star Tours – The Adventures Continue",
+          "name": "Star Tours \u2013 The Adventures Continue",
           "kind": "ride",
           "standby": null,
           "express": null,
@@ -5849,15 +5856,16 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "3b290419-8ca2-44bc-a710-a6c83fca76ec",
-            "parkQueueTimes": "star-tours-–-the-adventures-continue"
+            "parkQueueTimes": "star-tours-\u2013-the-adventures-continue"
           },
           "tags": [
+            "3d",
             "dark_ride",
             "family",
-            "simulator",
-            "3d"
+            "motion_sim",
+            "simulator"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
@@ -5868,7 +5876,7 @@
         },
         {
           "id": "7357772c-6b11-4a8d-af97-05a1bb45f001",
-          "name": "Indiana Jones™ Epic Stunt Spectacular!",
+          "name": "Indiana Jones\u2122 Epic Stunt Spectacular!",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -5878,7 +5886,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "7357772c-6b11-4a8d-af97-05a1bb45f001",
-            "parkQueueTimes": "indiana-jones™-epic-stunt-spectacular!"
+            "parkQueueTimes": "indiana-jones\u2122-epic-stunt-spectacular!"
           },
           "tags": [
             "stage_show",
@@ -5890,7 +5898,7 @@
         },
         {
           "id": "c600282c-227b-4ffc-b1ee-b5987609ee4f",
-          "name": "50's Prime Time Café",
+          "name": "50's Prime Time Caf\u00e9",
           "kind": "dining",
           "standby": null,
           "express": null,
@@ -5900,7 +5908,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "c600282c-227b-4ffc-b1ee-b5987609ee4f",
-            "parkQueueTimes": "50s-prime-time-café"
+            "parkQueueTimes": "50s-prime-time-caf\u00e9"
           },
           "tags": [
             "dining"
@@ -6102,7 +6110,7 @@
         },
         {
           "id": "a7763ca6-bca3-4e78-b75c-22886aa06bec",
-          "name": "The Little Mermaid – A Musical Adventure",
+          "name": "The Little Mermaid \u2013 A Musical Adventure",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -6112,7 +6120,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "a7763ca6-bca3-4e78-b75c-22886aa06bec",
-            "parkQueueTimes": "the-little-mermaid-–-a-musical-adventure"
+            "parkQueueTimes": "the-little-mermaid-\u2013-a-musical-adventure"
           },
           "tags": [
             "stage_show",
@@ -6124,7 +6132,7 @@
         },
         {
           "id": "375197ac-27ac-41f7-bd93-f4e9b9fc4d5d",
-          "name": "Beauty and the Beast – Live on Stage",
+          "name": "Beauty and the Beast \u2013 Live on Stage",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -6134,7 +6142,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "375197ac-27ac-41f7-bd93-f4e9b9fc4d5d",
-            "parkQueueTimes": "beauty-and-the-beast-–-live-on-stage"
+            "parkQueueTimes": "beauty-and-the-beast-\u2013-live-on-stage"
           },
           "tags": [
             "stage_show",
@@ -6176,9 +6184,9 @@
     },
     {
       "venueID": "1c84a229-8862-4648-9c71-378ddd2c7693",
-      "name": "Disney’s Animal Kingdom",
+      "name": "Disney\u2019s Animal Kingdom",
       "city": "Orlando",
-      "openText": "8:00 AM – 7:00 PM",
+      "openText": "8:00 AM \u2013 7:00 PM",
       "isOpen": true,
       "resort": "waltDisneyWorld",
       "externalIDs": {
@@ -6349,7 +6357,7 @@
         },
         {
           "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
-          "name": "Harambe Village Street Band – Burudika",
+          "name": "Harambe Village Street Band \u2013 Burudika",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -6359,7 +6367,7 @@
           "status": "closed",
           "externalIDs": {
             "themeparks": "a8781403-1344-4c06-89ef-b7a39b99ae59",
-            "parkQueueTimes": "harambe-village-street-band-–-burudika"
+            "parkQueueTimes": "harambe-village-street-band-\u2013-burudika"
           },
           "tags": [
             "stage_show",
@@ -6398,24 +6406,25 @@
           "express": null,
           "single": null,
           "showtimes": [],
-          "area": "Pandora – The Land of Avatar",
+          "area": "Pandora \u2013 The Land of Avatar",
           "status": "operating",
           "externalIDs": {
             "themeparks": "24cf863c-b6ba-4826-a056-0b698989cbf7",
             "parkQueueTimes": "avatar-flight-of-passage"
           },
           "tags": [
-            "dark_ride",
-            "thrill",
             "3d",
-            "simulator"
+            "dark_ride",
+            "motion_sim",
+            "simulator",
+            "thrill"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 44,
           "tips": [
             {
               "category": "secret",
-              "text": "Feel the sides of your banshee link seat expand and contract — it realistically simulates the creature breathing between your legs."
+              "text": "Feel the sides of your banshee link seat expand and contract \u2014 it realistically simulates the creature breathing between your legs."
             }
           ]
         },
@@ -6427,7 +6436,7 @@
           "express": null,
           "single": null,
           "showtimes": [],
-          "area": "Pandora – The Land of Avatar",
+          "area": "Pandora \u2013 The Land of Avatar",
           "status": "operating",
           "externalIDs": {
             "themeparks": "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0",
@@ -6477,7 +6486,7 @@
         },
         {
           "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
-          "name": "Animal Encounters: Winged Encounters – The Kingdom Takes Flight",
+          "name": "Animal Encounters: Winged Encounters \u2013 The Kingdom Takes Flight",
           "kind": "show",
           "standby": null,
           "express": null,
@@ -6487,7 +6496,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "93d3c183-737f-4e26-98f9-b18a3e190393",
-            "parkQueueTimes": "animal-encounters:-winged-encounters-–-the-kingdom-takes-flight"
+            "parkQueueTimes": "animal-encounters:-winged-encounters-\u2013-the-kingdom-takes-flight"
           },
           "tags": [
             "stage_show",
@@ -6498,7 +6507,7 @@
         },
         {
           "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
-          "name": "Yak & Yeti™ Restaurant",
+          "name": "Yak & Yeti\u2122 Restaurant",
           "kind": "dining",
           "standby": null,
           "express": null,
@@ -6508,7 +6517,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
-            "parkQueueTimes": "yak-&-yeti™-restaurant"
+            "parkQueueTimes": "yak-&-yeti\u2122-restaurant"
           },
           "tags": [
             "dining"
@@ -6667,7 +6676,7 @@
           "tips": [
             {
               "category": "best_seat",
-              "text": "Every section (Warthog, Elephant, Giraffe, Lion) is involved in audience participation — sit in rows 2–5 for great views."
+              "text": "Every section (Warthog, Elephant, Giraffe, Lion) is involved in audience participation \u2014 sit in rows 2\u20135 for great views."
             }
           ]
         },
@@ -6791,7 +6800,7 @@
         },
         {
           "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
-          "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+          "name": "Rainforest Cafe\u00ae at Disney's Animal Kingdom",
           "kind": "dining",
           "standby": null,
           "express": null,
@@ -6801,7 +6810,7 @@
           "status": "operating",
           "externalIDs": {
             "themeparks": "224d803c-cd7a-45d8-bfab-d843f2030983",
-            "parkQueueTimes": "rainforest-cafe®-at-disneys-animal-kingdom"
+            "parkQueueTimes": "rainforest-cafe\u00ae-at-disneys-animal-kingdom"
           },
           "tags": [
             "dining"
