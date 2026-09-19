@@ -881,7 +881,7 @@
             "single_rider",
             "thrill"
           ],
-          "rideCategory": "coaster_thrill",
+          "rideCategory": "dark_ride",
           "minHeightInches": 42,
           "tips": [
             {
@@ -889,7 +889,7 @@
               "text": "Back rows (Rows 5–6) experience a noticeably steeper, faster sensation on the initial 40-foot track drop."
             }
           ],
-          "environment": "outdoor"
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.hogwarts_express_-_kings_cross_station",
