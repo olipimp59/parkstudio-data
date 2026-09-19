@@ -608,7 +608,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "projection"
+            "projection",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -1562,6 +1563,36 @@
           ],
           "showCategory": "stage_show",
           "tips": []
+        },
+        {
+          "id": "uor.usf.shows.cinesational",
+          "name": "CineSational: A Symphonic Spectacular",
+          "kind": "show",
+          "standby": null,
+          "express": null,
+          "single": null,
+          "showtimes": [],
+          "area": "Universal Hollywood",
+          "status": "operating",
+          "externalIDs": {
+            "uor": "uor.usf.shows.cinesational",
+            "parkQueueTimes": "cinesational-symphonic-spectacular"
+          },
+          "tags": [
+            "stage_show",
+            "nighttime",
+            "nighttime_spectacular",
+            "fireworks",
+            "water",
+            "spectacular"
+          ],
+          "showCategory": "stage_show",
+          "tips": [
+            {
+              "category": "best_view",
+              "text": "The central viewing plaza along the Central Park boardwalk in Hollywood offers the perfect line of sight for lagoon fountains and drone choreography."
+            }
+          ]
         }
       ]
     },
@@ -1982,7 +2013,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "water"
+            "water",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": []
@@ -2144,7 +2176,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "fireworks"
+            "fireworks",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": []
@@ -2313,7 +2346,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "fireworks"
+            "fireworks",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -2362,7 +2396,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "fireworks"
+            "fireworks",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": []
@@ -4173,7 +4208,8 @@
             "stage_show",
             "nighttime",
             "fireworks",
-            "water"
+            "water",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -5372,7 +5408,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "spectacular"
+            "spectacular",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": [
@@ -6239,7 +6276,8 @@
           "tags": [
             "stage_show",
             "nighttime",
-            "projection"
+            "projection",
+            "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
           "tips": []
