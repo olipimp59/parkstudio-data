@@ -847,11 +847,12 @@
             "parkQueueTimes": "usf.rides.harry_potter_and_the_escape_from_gringotts"
           },
           "tags": [
-            "thrill",
+            "3d",
             "coaster",
             "dark_ride",
+            "early_entry",
             "single_rider",
-            "early_entry"
+            "thrill"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 42,
@@ -990,11 +991,13 @@
             "parkQueueTimes": "usf.rides.race_through_new_york_starring_jimmy_fallon"
           },
           "tags": [
+            "3d",
             "dark_ride",
             "family",
+            "motion_sim",
             "simulator"
           ],
-          "rideCategory": "dark_ride",
+          "rideCategory": "motion_sim",
           "minHeightInches": 40,
           "tips": [
             {
