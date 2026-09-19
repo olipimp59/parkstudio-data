@@ -30,8 +30,7 @@
           "tags": [
             "family",
             "classic",
-            "carousel",
-            "outdoor"
+            "carousel"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -40,7 +39,8 @@
               "category": "secret",
               "text": "Pull back or push forward on your creature's reins to make their eyes blink and ears wiggle."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.doctor_dooms_fearfall",
@@ -58,8 +58,7 @@
           },
           "tags": [
             "drop_tower",
-            "thrill",
-            "outdoor"
+            "thrill"
           ],
           "rideCategory": "drop_tower",
           "minHeightInches": 52,
@@ -68,7 +67,8 @@
               "category": "best_seat",
               "text": "The tower facing toward the lagoon provides the most spectacular panoramic view of the entire resort before the drop."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.dudley_do_rights_ripsaw_falls",
@@ -87,8 +87,7 @@
           "tags": [
             "water",
             "thrill",
-            "flume",
-            "outdoor"
+            "flume"
           ],
           "rideCategory": "water",
           "minHeightInches": 44,
@@ -97,7 +96,8 @@
               "category": "queue_hack",
               "text": "You will get 100% soaked. Rent a locker beforehand and bring a poncho or waterproof bag for phones."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.flight_of_the_hippogriff",
@@ -116,7 +116,6 @@
           "tags": [
             "family",
             "coaster",
-            "outdoor",
             "early_entry"
           ],
           "rideCategory": "coaster_family",
@@ -126,7 +125,8 @@
               "category": "secret",
               "text": "Bow respectfully to Buckbeak the Hippogriff as your coaster train ascends the lift hill for good luck."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.hagrids_magical_motorcycle_adventure",
@@ -146,8 +146,7 @@
             "thrill",
             "coaster",
             "single_rider",
-            "early_entry",
-            "outdoor"
+            "early_entry"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 48,
@@ -164,7 +163,8 @@
               "category": "secret",
               "text": "The track features a surprise 17-foot vertical free-fall drop inside the ancient ruins, the first in the US."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.harry_potter_and_the_forbidden_journey",
@@ -183,7 +183,6 @@
           "tags": [
             "dark_ride",
             "early_entry",
-            "indoor",
             "motion_sim",
             "single_rider",
             "thrill"
@@ -199,7 +198,8 @@
               "category": "photo_spot",
               "text": "The on-ride camera snaps your photo during the Dementor attack scene; brace yourself right after exiting the Whomping Willow."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ioa.rides.hogwarts_express_-_hogsmeade_station",
@@ -227,7 +227,8 @@
               "category": "secret",
               "text": "The cabin window projections and door silhouettes are completely different depending on which direction you travel."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.jurassic_park_river_adventure",
@@ -256,7 +257,8 @@
               "category": "photo_spot",
               "text": "The on-ride camera flashes at the climax drop right as the T-Rex lunges through the ceiling."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.jurassic_world_velocicoaster",
@@ -277,8 +279,7 @@
             "coaster",
             "high_speed",
             "single_rider",
-            "early_entry",
-            "outdoor"
+            "early_entry"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 51,
@@ -291,7 +292,8 @@
               "category": "queue_hack",
               "text": "Use the double-sided lockers right inside the queue before the metal detectors — they are free for the duration of your ride."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.one_fish_two_fish_red_fish_blue_fish",
@@ -310,8 +312,7 @@
           "tags": [
             "family",
             "classic",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -320,7 +321,8 @@
               "category": "secret",
               "text": "Listen to the rhyme played during the ride; following its instructions tells you whether to fly up or down to avoid the water jets."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.popeye_blutos_bilge_rat_barges",
@@ -339,8 +341,7 @@
           "tags": [
             "water",
             "family",
-            "raft",
-            "outdoor"
+            "raft"
           ],
           "rideCategory": "water",
           "minHeightInches": 42,
@@ -349,7 +350,8 @@
               "category": "secret",
               "text": "There is a covered circular center console in the raft where you can stow your shoes and bags to keep them dry."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.pteranodon_flyers",
@@ -368,8 +370,7 @@
           "tags": [
             "family",
             "scenic",
-            "kids",
-            "outdoor"
+            "kids"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 36,
@@ -378,7 +379,8 @@
               "category": "queue_hack",
               "text": "Guests over 56 inches tall must be accompanied by a child between 36 and 56 inches to ride."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.skull_island_reign_of_kong",
@@ -407,7 +409,8 @@
               "category": "easter_egg",
               "text": "Look closely at the animatronic native witch in the queue; the chanting was crafted in an authentic ancient dialect."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ioa.rides.storm_force_accelatron",
@@ -425,8 +428,7 @@
           },
           "tags": [
             "family",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -435,7 +437,8 @@
               "category": "secret",
               "text": "Work together with your cabin mates to spin the central wheel as fast as possible to trigger extra lightning sound effects."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.the_amazing_adventures_of_spider_man",
@@ -464,7 +467,8 @@
               "category": "easter_egg",
               "text": "Stan Lee makes four distinct animated cameo appearances throughout the ride film."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ioa.rides.the_cat_in_the_hat",
@@ -492,7 +496,8 @@
               "category": "secret",
               "text": "Notice how all architectural lines, door frames, and props have curved edges — Dr. Seuss never drew a single straight line."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ioa.rides.the_high_in_the_sky_seuss_trolley_train_ride!",
@@ -510,8 +515,7 @@
           },
           "tags": [
             "family",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 36,
@@ -520,7 +524,8 @@
               "category": "best_seat",
               "text": "There are two separate tracks: the left track travels through Circus McGurkus Cafe, while the right track offers open water views."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.rides.the_incredible_hulk_coaster",
@@ -540,8 +545,7 @@
             "thrill",
             "coaster",
             "high_speed",
-            "single_rider",
-            "outdoor"
+            "single_rider"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 54,
@@ -550,7 +554,8 @@
               "category": "secret",
               "text": "The launch tunnel accelerates you from 0 to 40 mph in 2 seconds at a 30-degree incline, propelling you straight into a zero-G roll."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.ollivanders",
@@ -578,7 +583,8 @@
               "category": "secret",
               "text": "If a young witch or wizard wants to be chosen by the wandmaker, stand toward the front center and wear wizard robes."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ioa.shows.classic_comic_book_characters",
@@ -600,7 +606,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.darkartsathogwartscastle",
@@ -630,7 +637,8 @@
               "category": "best_seat",
               "text": "The wooden bridge between Hogsmeade and Jurassic Park offers an incredible, less crowded vantage point for castle projections."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.frog_choir",
@@ -652,7 +660,8 @@
             "family"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.meet_spider_man_and_the_marvel_super_heroes",
@@ -676,7 +685,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.oh!.the.stories.youll.hear!",
@@ -698,7 +708,8 @@
             "kids"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.raptor_encounter",
@@ -725,7 +736,8 @@
               "category": "secret",
               "text": "Listen carefully to the trainer's commands and approach Blue slowly without sudden movements for the best interactive reaction."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.seuss_character_zone",
@@ -747,7 +759,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ioa.shows.triwizard_spirit_rally",
@@ -769,7 +782,8 @@
             "stunt"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         }
       ]
     },
@@ -813,7 +827,8 @@
               "category": "queue_hack",
               "text": "Stationary seating without motion is available at the front for guests prone to motion sensitivity."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.e.t._adventure",
@@ -841,7 +856,8 @@
               "category": "secret",
               "text": "Listen closely in the final scene: E.T. says your actual name if you gave it clearly during the passport checkpoint in the queue."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.harry_potter_and_the_escape_from_gringotts",
@@ -872,7 +888,8 @@
               "category": "best_seat",
               "text": "Back rows (Rows 5–6) experience a noticeably steeper, faster sensation on the initial 40-foot track drop."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.rides.hogwarts_express_-_kings_cross_station",
@@ -900,7 +917,8 @@
               "category": "secret",
               "text": "In the queue, have a friend stand behind you at Platform 9 3/4 to film you magically walking through the solid brick wall."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.rides.illuminations_villain_con_minion_blast",
@@ -929,7 +947,8 @@
               "category": "queue_hack",
               "text": "Sync your blaster with the Universal Orlando app before stepping onto the moving walkway to track your high score."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.kang_and_kodos_twirl_n_hurl",
@@ -947,8 +966,7 @@
           },
           "tags": [
             "family",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -957,7 +975,8 @@
               "category": "secret",
               "text": "Fly your saucer up and down to trigger snarky insults from Springfield citizens placed around the perimeter."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.rides.men_in_black_alien_attack",
@@ -986,7 +1005,8 @@
               "category": "secret",
               "text": "At the climax when told to push the red button, press and hold it continuously to earn a guaranteed 100,000 bonus points."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.race_through_new_york_starring_jimmy_fallon",
@@ -1016,7 +1036,8 @@
               "category": "secret",
               "text": "While waiting in the 30 Rock lobby, enjoy live performances by the Ragtime Gals barbershop quartet."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.revenge_of_the_mummy",
@@ -1036,7 +1057,6 @@
             "thrill",
             "coaster",
             "dark_ride",
-            "indoor",
             "single_rider"
           ],
           "rideCategory": "coaster_thrill",
@@ -1046,7 +1066,8 @@
               "category": "easter_egg",
               "text": "In the treasure room scene, look closely at the gold statues on the left to spot a hidden golden King Kong figurine."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.the_simpsons_ride",
@@ -1075,7 +1096,8 @@
               "category": "easter_egg",
               "text": "Look for the parody poster of Back to the Future in the queue, featuring Doc Brown losing his patent rights to Krusty."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.transformers_the_ride_3d",
@@ -1104,7 +1126,8 @@
               "category": "secret",
               "text": "The ride vehicle travels across two distinct building levels using a high-speed vertical elevator cleverly hidden during battle."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.rides.trolls_trollercoaster",
@@ -1123,12 +1146,12 @@
           "tags": [
             "family",
             "coaster",
-            "kids",
-            "outdoor"
+            "kids"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 36,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.ollivanders",
@@ -1151,7 +1174,8 @@
           ],
           "rideCategory": "interactive_show",
           "showCategory": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.shows.mega_movie_parade",
@@ -1178,7 +1202,8 @@
               "category": "best_seat",
               "text": "The corner in front of the Horror Make-Up Show gives an unobstructed view as the massive Jurassic Park float turns."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.events.hhn_2026_show_nightmare_fuel_blood_noir",
@@ -1200,7 +1225,8 @@
             "stunt"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.events.hhn_2026_show_stranger_things_return_to_hawkins",
@@ -1221,7 +1247,8 @@
             "thrill"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.show.dreamworks_character_zone",
@@ -1243,7 +1270,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.show.dreamWorks_imagination_celebration",
@@ -1265,7 +1293,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.show.po-live",
@@ -1287,7 +1316,8 @@
             "interactive"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.show.shreks.swamp.meet",
@@ -1309,7 +1339,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.animal_actors_on_location",
@@ -1331,7 +1362,8 @@
             "animals"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.beat_builders",
@@ -1353,7 +1385,8 @@
             "stunt"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.blues_brothers",
@@ -1375,7 +1408,8 @@
             "classic"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.celestina_warbeck_and_the_banshees",
@@ -1397,7 +1431,8 @@
             "family"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.hollywood_character_zone",
@@ -1419,7 +1454,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.illumination_theater",
@@ -1441,7 +1477,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "uor.usf.shows.marilyn_and_the_diamond_bellas",
@@ -1462,7 +1499,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.meet_spongeBob_squarepants",
@@ -1484,7 +1522,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.meet_the_transformers",
@@ -1511,7 +1550,8 @@
               "category": "secret",
               "text": "Megatron, Optimus Prime, and Bumblebee rotate appearances; Megatron is famous for roasting park guests on video."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.the_bourne_stuntacular",
@@ -1538,7 +1578,8 @@
               "category": "secret",
               "text": "Combines real live stunt performers with a gigantic 130-foot LED screen moving dynamically in physical space."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.thetalesofbeedlethebard",
@@ -1560,7 +1601,8 @@
             "puppets"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.vamos_bailalo",
@@ -1582,7 +1624,8 @@
             "dance"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.usf.shows.cinesational",
@@ -1612,7 +1655,8 @@
               "category": "best_view",
               "text": "The central viewing plaza along the Central Park boardwalk in Hollywood offers the perfect line of sight for lagoon fountains and drone choreography."
             }
-          ]
+          ],
+          "environment": "outdoor"
         }
       ]
     },
@@ -1648,7 +1692,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.constellation_carousel",
@@ -1667,12 +1712,12 @@
           "tags": [
             "family",
             "scenic",
-            "carousel",
-            "outdoor"
+            "carousel"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.curse_of_the_werewolf",
@@ -1691,12 +1736,12 @@
           "tags": [
             "family",
             "coaster",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 40,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.dragon_racers_rally",
@@ -1714,12 +1759,12 @@
           },
           "tags": [
             "thrill",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 48,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.fyre_drill",
@@ -1738,12 +1783,12 @@
           "tags": [
             "water",
             "family",
-            "interactive",
-            "outdoor"
+            "interactive"
           ],
           "rideCategory": "water",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.harry_potter_and_the_battle_at_the_ministry",
@@ -1762,7 +1807,6 @@
           "tags": [
             "dark_ride",
             "thrill",
-            "indoor",
             "early_entry"
           ],
           "rideCategory": "dark_ride",
@@ -1772,7 +1816,8 @@
               "category": "secret",
               "text": "Features innovative omnidirectional elevator motion bases simulating multidirectional flight throughout the Ministry of Magic."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ueu.rides.hiccups_wing_glider",
@@ -1791,12 +1836,12 @@
           "tags": [
             "family",
             "coaster",
-            "launch",
-            "outdoor"
+            "launch"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 40,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.mario_cart_bowsers_challenge",
@@ -1826,7 +1871,8 @@
               "category": "queue_hack",
               "text": "Turn your head to aim your shell fire at targets — the AR visor tracks where your gaze is focused."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "uor.ueu.rides.mine-cart_madness",
@@ -1845,8 +1891,7 @@
           "tags": [
             "family",
             "coaster",
-            "early_entry",
-            "outdoor"
+            "early_entry"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 36,
@@ -1855,7 +1900,8 @@
               "category": "secret",
               "text": "Uses a pioneering 'boom coaster' track hidden underneath to create the optical illusion of your cart leaping over broken gaps."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.monsters_unchained_the_frankenstein_experiment",
@@ -1873,12 +1919,12 @@
           },
           "tags": [
             "dark_ride",
-            "thrill",
-            "indoor"
+            "thrill"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": 48,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "uor.ueu.rides.stardust_racers",
@@ -1899,8 +1945,7 @@
             "coaster",
             "dual_track",
             "high_speed",
-            "early_entry",
-            "outdoor"
+            "early_entry"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 48,
@@ -1909,7 +1954,8 @@
               "category": "secret",
               "text": "At night, both racing coaster trains perform the 'Celestial Spin' inverted criss-cross illuminated by thousands of onboard LEDs."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.rides.yoshis_adventure",
@@ -1929,12 +1975,12 @@
             "family",
             "scenic",
             "kids",
-            "early_entry",
-            "outdoor"
+            "early_entry"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 36,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.show.meet_toothless",
@@ -1956,7 +2002,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.show.le_cirque_arcanus",
@@ -1978,7 +2025,8 @@
             "acrobatics"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.show.meet_mario_and_luigi",
@@ -2000,7 +2048,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.show.meet_princess_peach",
@@ -2022,7 +2071,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.shows.celestialgoodnight",
@@ -2045,7 +2095,8 @@
             "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "uor.ueu.shows.the_untrainable_dragon",
@@ -2067,7 +2118,8 @@
             "spectacular"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         }
       ]
     },
@@ -2102,7 +2154,8 @@
             "seasonal"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "97c837c3-4a0f-4d52-b93c-074cf31d6f41",
@@ -2123,7 +2176,8 @@
             "seasonal"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "4c31b3ad-5dc9-437f-ac1a-0fdff36a2818",
@@ -2145,7 +2199,8 @@
             "castle"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "51392ca4-f824-42d8-8808-8110ec8e0e22",
@@ -2166,7 +2221,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "6ea670b8-3097-4d60-b69c-94e16071da17",
@@ -2185,7 +2241,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "86c198b0-7c02-4354-814a-27ad70067d45",
@@ -2208,7 +2265,8 @@
             "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "ee56b2f3-fd49-4a29-ae1a-2d321549a633",
@@ -2235,7 +2293,8 @@
               "category": "best_seat",
               "text": "Frontierland near the start of the parade route allows you to enjoy the full parade and walk to Big Thunder before crowds arrive."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "273ddb8d-e7b5-4e34-8657-1113f49262a5",
@@ -2254,8 +2313,7 @@
           "tags": [
             "family",
             "classic",
-            "carousel",
-            "outdoor"
+            "carousel"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -2264,7 +2322,8 @@
               "category": "secret",
               "text": "Cinderella's own horse has a golden ribbon tied around its tail — look for it in the second row from the outside."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "d69261dc-62b8-434c-83bd-93649b43c408",
@@ -2286,7 +2345,8 @@
             "family"
           ],
           "showCategory": "parade",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a0613b70-293f-4a5b-8169-357be1777c62",
@@ -2307,7 +2367,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "9d4d5229-7142-44b6-b4fb-528920969a2c",
@@ -2326,8 +2387,7 @@
           "tags": [
             "family",
             "coaster",
-            "dark_ride",
-            "outdoor"
+            "dark_ride"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 38,
@@ -2336,7 +2396,8 @@
               "category": "secret",
               "text": "The cars are mounted on cradles that swing independently side-to-side; lean together with your row to amplify the swing."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "9221e600-6715-4b4f-b39a-00c318c00e03",
@@ -2357,7 +2418,8 @@
             "seasonal"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "22b78ed9-a692-47cb-b6a4-6d1224ff67e3",
@@ -2385,7 +2447,8 @@
               "category": "best_seat",
               "text": "Stand near the partners statue or halfway down Main Street to see both castle projection mapping and high-altitude fireworks."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "5c00cd7c-b207-4d9d-9c8c-a8d418fc5425",
@@ -2407,7 +2470,8 @@
             "family"
           ],
           "showCategory": "parade",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "05ca3e51-580b-44ca-8046-7d3e57a6d248",
@@ -2430,7 +2494,8 @@
             "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "f010bc01-b450-4476-a5f3-a5f2813104b2",
@@ -2450,12 +2515,12 @@
             "water",
             "family",
             "kids",
-            "splash",
-            "outdoor"
+            "splash"
           ],
           "rideCategory": "water",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "166f2985-7b27-4eff-a8b3-29c3448ba198",
@@ -2477,7 +2542,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "b5d6d1d1-e960-4c8f-a8a4-b9748b386b64",
@@ -2499,7 +2565,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef",
@@ -2517,12 +2584,12 @@
           },
           "tags": [
             "dark_ride",
-            "family",
-            "indoor"
+            "family"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "7c5e1e02-3a44-4151-9005-44066d5ba1da",
@@ -2541,12 +2608,12 @@
           "tags": [
             "family",
             "3d",
-            "indoor",
             "theater"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "a74421f2-5de4-4425-bd06-8b4639b29826",
@@ -2568,7 +2635,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "5564113f-25b4-4646-ac35-aacf983e2fd6",
@@ -2590,7 +2658,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "352feb94-e52e-45eb-9c92-e4b44c6b1a9d",
@@ -2609,8 +2678,7 @@
           "tags": [
             "dark_ride",
             "family",
-            "classic",
-            "indoor"
+            "classic"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
@@ -2619,7 +2687,8 @@
               "category": "easter_egg",
               "text": "In the queue, peer down through the bars into the dungeon to see two pirate skeletons playing an eternal chess stalemate."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "947edbee-85a5-4aa0-99f3-14c7de539542",
@@ -2641,7 +2710,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "1c708beb-41e1-43ae-8dd8-1e85075aeb38",
@@ -2662,7 +2732,8 @@
             "ceremony"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
@@ -2680,12 +2751,12 @@
           },
           "tags": [
             "family",
-            "classic",
-            "indoor"
+            "classic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "83201c33-ce99-45ae-a595-f47e61d73739",
@@ -2704,7 +2775,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "e40ac396-cbac-43f4-8752-764ed60ccceb",
@@ -2723,12 +2795,12 @@
           "tags": [
             "family",
             "transport",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "f819079e-644e-4fce-bda3-26b899ac7027",
@@ -2750,7 +2822,8 @@
             "characters"
           ],
           "showCategory": "parade",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "1eee22e8-1d0a-4809-a42b-df3ae55c69d5",
@@ -2772,7 +2845,8 @@
             "classic"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "72c7343a-f7fb-4f66-95df-c91016de7338",
@@ -2800,7 +2874,8 @@
               "category": "secret",
               "text": "Hit the bottom of the giant robot's chest in room 1 or the bottom of Zurg's spaceship to score 100,000 points per shot."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "5a43d1a7-ad53-4d25-abfe-25625f0da304",
@@ -2820,8 +2895,7 @@
             "thrill",
             "coaster",
             "high_speed",
-            "single_rider",
-            "outdoor"
+            "single_rider"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 48,
@@ -2834,7 +2908,8 @@
               "category": "best_seat",
               "text": "Front row Lightcycle gives a completely immersive tunnel vision during the initial 60 mph digital launch into the grid."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "796b0a25-c51e-456e-9bb8-50a324e301b3",
@@ -2853,8 +2928,7 @@
           "tags": [
             "family",
             "classic",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -2863,7 +2937,8 @@
               "category": "secret",
               "text": "Riding at night feels like a completely different expedition with atmospheric lanterns and alternative skipper jokes."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "6d74b3d9-f977-4c9b-8114-93969b51b105",
@@ -2884,7 +2959,8 @@
             "seasonal"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e0cd6a94-6dbe-4f52-aaa8-b3d2fdf5f2f6",
@@ -2905,7 +2981,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "ffcfeaa2-1416-4920-a1ed-543c1a1695c4",
@@ -2924,8 +3001,7 @@
           "tags": [
             "family",
             "scenic",
-            "relaxing",
-            "outdoor"
+            "relaxing"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -2934,7 +3010,8 @@
               "category": "secret",
               "text": "Glides through the interior of Space Mountain and Buzz Lightyear — ideal for resting your feet without waiting."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "de3309ca-97d5-4211-bffe-739fed47e92f",
@@ -2952,8 +3029,7 @@
           },
           "tags": [
             "thrill",
-            "coaster",
-            "outdoor"
+            "coaster"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 40,
@@ -2962,7 +3038,8 @@
               "category": "best_seat",
               "text": "Request the very back car (Rows 14–15) — you get pulled over every hill with exhilarating negative G airtime."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "2551a77d-023f-4ab1-9a19-8afec0190f39",
@@ -2981,8 +3058,7 @@
           "tags": [
             "dark_ride",
             "family",
-            "classic",
-            "indoor"
+            "classic"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
@@ -2995,7 +3071,8 @@
               "category": "secret",
               "text": "In the stretching room, stand directly under the portrait of the girl balancing on the tightrope to exit first into the hall."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "92524eb7-4ee5-4eab-936c-2eb8e6eb0ecd",
@@ -3016,7 +3093,8 @@
             "seasonal"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "b2260923-9315-40fd-9c6b-44dd811dbe64",
@@ -3034,8 +3112,7 @@
           },
           "tags": [
             "thrill",
-            "coaster",
-            "indoor"
+            "coaster"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 44,
@@ -3044,7 +3121,8 @@
               "category": "secret",
               "text": "The ride only reaches a top speed of 28 mph, but pitch darkness and nearby glowing stars make it feel more than twice as fast."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "697473c5-ae17-4c3f-80c7-09a813248013",
@@ -3063,7 +3141,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "0d94ad60-72f0-4551-83a6-ebaecdd89737",
@@ -3081,8 +3160,7 @@
           },
           "tags": [
             "dark_ride",
-            "family",
-            "indoor"
+            "family"
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
@@ -3091,7 +3169,8 @@
               "category": "easter_egg",
               "text": "As you enter Owl's house, look to your left to spot a painting of Mr. Toad handing over the deed to Owl."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "f163ddcd-43e1-488d-8276-2381c1db0a39",
@@ -3109,12 +3188,12 @@
           },
           "tags": [
             "family",
-            "kids",
-            "outdoor"
+            "kids"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 32,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "f5aad2d4-a419-4384-bd9a-42f86385c750",
@@ -3137,7 +3216,8 @@
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "e39b831b-7731-49bb-815b-289b4f49a9fd",
@@ -3156,12 +3236,12 @@
           "tags": [
             "family",
             "transport",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "cf4b2ba4-3626-4de7-9d07-abe8a65b1665",
@@ -3183,7 +3263,8 @@
             "princess"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "40737d3d-0ff6-4a9e-a050-beb87bf90120",
@@ -3205,7 +3286,8 @@
             "princess"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "de737ffc-306b-4f32-8bbb-34e5d370ec8f",
@@ -3227,7 +3309,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "0aae716c-af13-4439-b638-d75fb1649df3",
@@ -3246,12 +3329,12 @@
           "tags": [
             "family",
             "spinning",
-            "classic",
-            "outdoor"
+            "classic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "86a41273-5f15-4b54-93b6-829f140e5161",
@@ -3279,7 +3362,8 @@
               "category": "queue_hack",
               "text": "One of the longest lines in the park. Prioritize during early park entry or the final 45 minutes before park close."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "012a211b-4c91-451c-8a0e-5e3ab398eda8",
@@ -3301,7 +3385,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e76c93df-31af-49a5-8e2f-752c76c937c9",
@@ -3324,7 +3409,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "55bdcccc-217b-416c-b8b0-4b6a87d16179",
@@ -3343,7 +3429,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "ae9a4a79-ccf1-4561-9a95-cf83d3007b98",
@@ -3362,7 +3449,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "6fd1e225-53a0-4a80-a577-4bbc9a471075",
@@ -3380,12 +3468,12 @@
           },
           "tags": [
             "family",
-            "classic",
-            "indoor"
+            "classic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "888fb4a4-7adf-47a1-8ba2-c258cc64fd75",
@@ -3407,7 +3495,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a2d92647-634d-4eb4-886b-9da858e871f1",
@@ -3429,7 +3518,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "d9d12438-d999-4482-894b-8955fdb20ccf",
@@ -3448,8 +3538,7 @@
           "tags": [
             "family",
             "spinning",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -3458,7 +3547,8 @@
               "category": "best_seat",
               "text": "Elevated high above Tomorrowland, it offers one of the best evening aerial views of Cinderella Castle."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "c4b64a31-e855-46a9-9d1a-aa13c99e88af",
@@ -3477,7 +3567,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "e8f0b426-7645-4ea3-8b41-b94ae7091a41",
@@ -3505,7 +3596,8 @@
               "category": "secret",
               "text": "Text in your own joke using the number displayed on the pre-show screens — Mike Wazowski might read it live."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "2ebfb38c-5cb5-4de1-86c0-f7af14188022",
@@ -3523,12 +3615,12 @@
           },
           "tags": [
             "family",
-            "history",
-            "indoor"
+            "history"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "30fe3c64-af71-4c66-a54b-aa61fd7af177",
@@ -3547,12 +3639,12 @@
           "tags": [
             "family",
             "walkthrough",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48",
@@ -3571,12 +3663,12 @@
           "tags": [
             "family",
             "coaster",
-            "kids",
-            "outdoor"
+            "kids"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 35,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e847a8bd-7d21-432b-a7a1-f483517a22b5",
@@ -3595,7 +3687,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "73cb9445-0695-47a3-87ce-d08ae36b5f3c",
@@ -3624,7 +3717,8 @@
               "category": "photo_spot",
               "text": "Smile during the massive 50-foot drop into the bayou — the high-speed camera snaps just before the splashdown."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "75d43698-162c-47af-a607-e879637dc8e7",
@@ -3643,7 +3737,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "890fa430-89c0-4a3f-96c9-11597888005e",
@@ -3662,8 +3757,7 @@
           "tags": [
             "family",
             "classic",
-            "kids",
-            "outdoor"
+            "kids"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -3672,7 +3766,8 @@
               "category": "queue_hack",
               "text": "Inside the big-top tent is an air-conditioned play area where kids can play while parents receive a pager buzzer."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "90d79335-c907-4069-a021-d0fe1ec73ae2",
@@ -3694,7 +3789,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "0f57cecf-5502-4503-8bc3-ba84d3708ace",
@@ -3712,12 +3808,12 @@
           },
           "tags": [
             "family",
-            "classic",
-            "indoor"
+            "classic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "96455de6-f4f1-403c-9391-bf8396979149",
@@ -3736,12 +3832,12 @@
           "tags": [
             "family",
             "kids",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         }
       ]
     },
@@ -3774,7 +3870,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "17d51899-7d6d-4cd7-93bb-4064a47d501b",
@@ -3793,7 +3890,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "001b099f-4db8-4843-8c1e-852e0e8fc2df",
@@ -3814,7 +3912,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "3e5f26ee-c02d-47fd-891e-5e4479073444",
@@ -3836,7 +3935,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "8c8cd77d-97f6-4309-b285-42aad90e9f15",
@@ -3854,12 +3954,12 @@
           },
           "tags": [
             "family",
-            "music",
-            "indoor"
+            "music"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "0e35a7a2-c2cd-451b-88e2-afc9d370e69e",
@@ -3880,7 +3980,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "dbf4a977-a7b5-41db-a9b7-ecad65f9aa0f",
@@ -3899,7 +4000,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "480fde8f-fe58-4bfb-b3ab-052a39d4db7c",
@@ -3928,7 +4030,8 @@
               "category": "easter_egg",
               "text": "In the Renaissance scene, the painter next to the sculpture is modeled after Michelangelo himself."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "8f8746cb-c714-4c60-848d-e2dc4e6f586b",
@@ -3950,7 +4053,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "ea730d0c-7723-429d-89a4-9e76f053f5ac",
@@ -3971,7 +4075,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "7b79e739-c540-4ea5-a4c8-f8d8bac5719b",
@@ -3993,7 +4098,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a70b81bf-2934-433c-9723-afb2f24112bf",
@@ -4015,7 +4121,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d6bb186c-382f-4ae6-bc76-fde8f141ed69",
@@ -4036,7 +4143,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "0c7097cb-8b29-4257-9e9a-a11ed59ceb46",
@@ -4057,7 +4165,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "fb1e45fc-a2bb-4e3c-951d-3a4e2130b79d",
@@ -4078,7 +4187,8 @@
             "acrobatics"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "76eadac1-cdfa-45e5-a25c-54ed4c3a604f",
@@ -4099,7 +4209,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "296d164a-8b9a-49d3-a285-637b86731260",
@@ -4120,7 +4231,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "c5f6c7e4-d5cd-4d71-8e02-57d8bb43b3ba",
@@ -4147,7 +4259,8 @@
               "category": "best_seat",
               "text": "Stand directly under the center of the rotunda dome inside American Adventure for flawless natural acoustic resonance."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "95ab66f4-4e47-4f76-875f-45ae70831e2f",
@@ -4166,7 +4279,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "ee070d46-6a64-41c0-9f12-69dcfcca10a0",
@@ -4184,12 +4298,12 @@
           },
           "tags": [
             "family",
-            "scenic",
-            "indoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "2ebce841-be26-42e3-a552-393dc995cfe8",
@@ -4211,7 +4325,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "6e70f3fb-faab-41b1-8d26-b85d1c5cfa26",
@@ -4232,7 +4347,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "3dbf1ff2-eee0-44a9-8cd9-22bf920e81e9",
@@ -4261,7 +4377,8 @@
               "category": "best_seat",
               "text": "Any open spot around World Showcase lagoon with wind blowing away from you to keep smoke from blocking the fountains."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "fd8afd63-0cb5-4f77-b47b-fb277f12d9f8",
@@ -4282,7 +4399,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e48629ab-939f-4fe0-9e6a-6ad29b8added",
@@ -4303,7 +4421,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e9c1bff6-c9c1-4275-8f3d-44226f0fdfbb",
@@ -4325,7 +4444,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "07dbeaea-85fa-45f2-872f-02f9e7510419",
@@ -4347,7 +4467,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "0f40274d-420a-425a-9377-29fd6e49484f",
@@ -4369,7 +4490,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "7969166f-feef-4350-b26e-6a6c745528f4",
@@ -4391,7 +4513,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "2ecc4fff-2994-476f-9926-24a4af173838",
@@ -4413,7 +4536,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0",
@@ -4441,7 +4565,8 @@
               "category": "photo_spot",
               "text": "The on-ride photo captures your reaction during the small backwards plunge into the ice canyon."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "67612787-fbd3-44b7-869f-123f55d78584",
@@ -4463,7 +4588,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "5d3bdec3-8484-4aca-b192-e9735a41a316",
@@ -4485,7 +4611,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "99087d9a-4380-4ab6-b088-20816e233c6f",
@@ -4507,7 +4634,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "00666fe9-7774-4b53-9fb7-3d333f8aa503",
@@ -4525,12 +4653,12 @@
           },
           "tags": [
             "family",
-            "scenic",
-            "indoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "3beaa9a5-6404-4446-bfd1-e0d0eea65e85",
@@ -4551,7 +4679,8 @@
             "comedy"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "fb076275-0570-4d62-b2a9-4d6515130fa3",
@@ -4574,7 +4703,8 @@
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "3206e3a6-cbc3-4960-9700-163764bc47d6",
@@ -4593,7 +4723,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "3d8f8f8f-f984-4d2e-8dea-5a79432bdf05",
@@ -4615,7 +4746,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "1e735ffb-4868-47f1-b2cd-2ac1156cd5f0",
@@ -4644,7 +4776,8 @@
               "category": "secret",
               "text": "Notice thermal heat effects under the oven and water spray bursts when the champagne cork pops."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "38892221-f69c-4913-97c9-7473c88854fa",
@@ -4663,7 +4796,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "75449e85-c410-4cef-a368-9d2ea5d52b58",
@@ -4686,7 +4820,8 @@
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "8f353879-d6ac-4211-9352-4029efb47c18",
@@ -4714,7 +4849,8 @@
               "category": "secret",
               "text": "The crops and fish you see in the experimental greenhouses are harvested and served directly in EPCOT restaurants."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "3ace01d1-15fc-4fbb-99e4-81a696cb2d05",
@@ -4736,7 +4872,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "18c533d6-a395-4ae4-9488-80fce9c497fe",
@@ -4758,7 +4895,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "9053240b-7f7f-44fe-970b-bd7956cd5d4f",
@@ -4780,7 +4918,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "66ff36de-9cb3-4d9a-b891-1665d19ffb3e",
@@ -4802,7 +4941,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "35ed719b-f7f0-488f-8346-4fbf8055d373",
@@ -4821,12 +4961,12 @@
           "tags": [
             "family",
             "4d",
-            "indoor",
             "theater"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "e3549451-b284-453d-9c31-e3b1207abd79",
@@ -4845,7 +4985,6 @@
           "tags": [
             "thrill",
             "coaster",
-            "indoor",
             "reverse_launch"
           ],
           "rideCategory": "coaster_thrill",
@@ -4859,7 +4998,8 @@
               "category": "best_seat",
               "text": "Row 9 gives an exceptionally smooth, dynamic rotation sensation during the backwards launch."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "33bd3bad-6803-4c5e-97ac-f7e31261a604",
@@ -4881,7 +5021,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "6ecdbfc8-85c2-436d-893b-6db0f437b74a",
@@ -4900,7 +5041,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "41aba635-48e4-43bf-9bb1-3b811b5705d0",
@@ -4921,7 +5063,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "83fed9d1-c25f-497c-ab8e-21e4dd7ce655",
@@ -4942,7 +5085,8 @@
             "comedy"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "8e1a9a60-9311-4f79-b6a8-1b5172e4f7c9",
@@ -4963,7 +5107,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "4f0df9e7-d4c1-45b5-93e2-4a7bc92547b0",
@@ -4985,7 +5130,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "5b6475ad-4e9a-4793-b841-501aa382c9c0",
@@ -5002,7 +5148,6 @@
             "parkQueueTimes": "mission:-space"
           },
           "tags": [
-            "indoor",
             "motion_sim",
             "simulator",
             "thrill"
@@ -5014,7 +5159,8 @@
               "category": "queue_hack",
               "text": "Choose Green Mission for a gentle family flight; Orange Mission uses true centrifugal spinning exerting up to 2.5 Gs."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "5b7cf10a-763b-45ba-9049-87140270826f",
@@ -5033,7 +5179,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "6f1d3b25-42c9-4e99-9dce-6c20d7a5deea",
@@ -5055,7 +5202,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "07263f57-0431-4da2-a8b6-77d2965a6f83",
@@ -5074,7 +5222,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "482169b9-2889-4747-8aef-f9d13a37d940",
@@ -5092,12 +5241,12 @@
           },
           "tags": [
             "family",
-            "nature",
-            "indoor"
+            "nature"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "dae68dee-dfba-4128-b594-6aa12add1070",
@@ -5116,8 +5265,7 @@
           "tags": [
             "family",
             "walkthrough",
-            "water",
-            "outdoor"
+            "water"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -5126,7 +5274,8 @@
               "category": "secret",
               "text": "Has both a 'wet path' where you interact with sprays and waterfalls and a completely 'dry path' for dry exploration."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "61fb49f8-e62f-4e1c-ae0e-8ab9929037bc",
@@ -5144,12 +5293,12 @@
           },
           "tags": [
             "family",
-            "scenic",
-            "indoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "22f48b73-01df-460e-8969-9eb2b4ae836c",
@@ -5172,7 +5321,8 @@
           ],
           "rideCategory": "dark_ride",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "c9e1d1f6-021f-43f2-a14b-3e67f65adbc4",
@@ -5191,7 +5341,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "1f542745-cda1-4786-a536-5fff373e5964",
@@ -5209,12 +5360,12 @@
           },
           "tags": [
             "family",
-            "history",
-            "indoor"
+            "history"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "d4179c4c-eb08-4559-aa7c-f9802fda641b",
@@ -5233,7 +5384,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "81b15dfd-cf6a-466f-be59-3dd65d2a2807",
@@ -5263,7 +5415,8 @@
               "category": "best_seat",
               "text": "Request Concourse B, Row 1 for centered views without other riders' dangling feet in your visual horizon."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "37ae57c5-feaf-4e47-8f27-4b385be200f0",
@@ -5282,8 +5435,7 @@
           "tags": [
             "thrill",
             "high_speed",
-            "single_rider",
-            "outdoor"
+            "single_rider"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 40,
@@ -5292,7 +5444,8 @@
               "category": "secret",
               "text": "Reaches 64.9 mph on the outdoor banked loop, making it the fastest attraction at Walt Disney World."
             }
-          ]
+          ],
+          "environment": "hybrid"
         },
         {
           "id": "57acb522-a6fc-4aa4-a80e-21f21f317250",
@@ -5315,7 +5468,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         }
       ]
     },
@@ -5351,7 +5505,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "30070790-e166-4135-b7ce-d89da20a7b95",
@@ -5373,7 +5528,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "eb325677-d32a-41ec-b2c9-e1ab91bade02",
@@ -5395,7 +5551,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "90ab2c64-e05c-4783-bde5-fddf41f78402",
@@ -5416,7 +5573,8 @@
             "projection"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "eea07a8d-30e0-42d8-9c47-58cc038801e8",
@@ -5438,7 +5596,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "42328c39-76ab-4f03-b862-4206c8d9f7bb",
@@ -5466,7 +5625,8 @@
               "category": "best_seat",
               "text": "Sit in the middle tier rows of the amphitheater — front rows get misted by the water screens and miss high stage action."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "1bbce25c-36eb-4d16-9216-4a1bbd46932b",
@@ -5487,7 +5647,8 @@
             "kids"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
@@ -5506,7 +5667,6 @@
           "tags": [
             "thrill",
             "coaster",
-            "indoor",
             "single_rider"
           ],
           "rideCategory": "coaster_thrill",
@@ -5516,7 +5676,8 @@
               "category": "secret",
               "text": "The super-stretch limo launch pulls 4.5 Gs as it accelerates from 0 to 57 mph in 2.8 seconds straight into a roll inversion."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "d7669edc-eaa1-4af2-bbb5-6e98df564166",
@@ -5539,7 +5700,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d91a0e9a-8652-4036-822f-e7b12b381273",
@@ -5561,7 +5723,8 @@
             "comedy"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "d56506e2-6ad3-443a-8065-fea37987248d",
@@ -5579,12 +5742,12 @@
           },
           "tags": [
             "family",
-            "spinning",
-            "outdoor"
+            "spinning"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": 32,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "7bf05bdc-8279-427b-8a6d-50fc62ef31cb",
@@ -5603,7 +5766,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "d07a17c2-7720-4db7-b12a-a68ecdb51108",
@@ -5624,7 +5788,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "27f9fc86-2341-4bf4-8cbf-67fc16a841f1",
@@ -5646,7 +5811,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "1a2e70d9-50d5-4140-b69e-799e950f7d18",
@@ -5676,7 +5842,8 @@
               "category": "secret",
               "text": "The Star Destroyer hangar features 50 real First Order stormtrooper figures lined up alongside a full-scale TIE Fighter."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "6f6998e8-a629-412c-b964-2cb06af8e26b",
@@ -5704,7 +5871,8 @@
               "category": "secret",
               "text": "The elevator drops are not gravity-driven; heavy industrial cables actively pull the cab downward faster than free-fall speed!"
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "c113b1cf-7b6d-416a-8e21-bf8f387ecd77",
@@ -5726,7 +5894,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "69cb35f2-c58e-4b44-88c9-ea0cc720e075",
@@ -5747,7 +5916,8 @@
             "theater"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "20b5daa8-e1ea-436f-830c-2d7d18d929b5",
@@ -5776,7 +5946,8 @@
               "category": "secret",
               "text": "Coordinate with your partner to trigger secret Easter eggs in each mini-game for 2,000 to 5,000 bonus points per hit."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "6e118e37-5002-408d-9d88-0b5d9cdb5d14",
@@ -5804,7 +5975,8 @@
               "category": "secret",
               "text": "Utilizes revolutionary '2 1/2-D' theatrical projection techniques that transform flat cartoon sets into deep 3D worlds without glasses."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "bc2c2ffe-3cf0-4e75-a408-bf5e86515c4c",
@@ -5825,7 +5997,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d9dbd260-9e34-406d-abb7-19f9d733e577",
@@ -5844,7 +6017,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "b1ed574f-40f2-4132-a1ee-893a276633c8",
@@ -5865,7 +6039,8 @@
             "projection"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "847ab726-3672-42fd-a232-df7a3fb2baf7",
@@ -5886,7 +6061,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "3b290419-8ca2-44bc-a710-a6c83fca76ec",
@@ -5916,7 +6092,8 @@
               "category": "secret",
               "text": "With hundreds of randomized story combinations, it takes dozens of rides to encounter every planet, character, and ending."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "7357772c-6b11-4a8d-af97-05a1bb45f001",
@@ -5938,7 +6115,8 @@
             "stunt"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "c600282c-227b-4ffc-b1ee-b5987609ee4f",
@@ -5957,7 +6135,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "343de9f4-e100-4a52-9285-0fcc3a486603",
@@ -5978,7 +6157,8 @@
             "interactive"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "9211adc9-b296-4667-8e97-b40cf76108e4",
@@ -5996,12 +6176,12 @@
           },
           "tags": [
             "family",
-            "indoor",
             "theater"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "34c4916b-989b-4ff1-a7e3-a6a846a3484f",
@@ -6030,7 +6210,8 @@
               "category": "best_seat",
               "text": "The two Pilot seats give complete manual control of the Falcon (left pilot controls left/right; right pilot controls up/down)."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "d2af9650-9f91-45ef-98be-de44b4b44c32",
@@ -6049,7 +6230,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "917783a5-da9c-4c55-ac51-0ac1f8253131",
@@ -6068,7 +6250,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "79860074-658f-49bc-8c1b-624af8b4718e",
@@ -6090,7 +6273,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "02861a9b-584d-47d5-a8d0-98e05c3b5dce",
@@ -6112,7 +6296,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "f020b5e3-d26d-4339-83f9-0f1f858a0e40",
@@ -6131,7 +6316,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "7a73a6df-4d33-4648-b3e3-57985f84f0ae",
@@ -6150,7 +6336,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "a7763ca6-bca3-4e78-b75c-22886aa06bec",
@@ -6172,7 +6359,8 @@
             "musical"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "375197ac-27ac-41f7-bd93-f4e9b9fc4d5d",
@@ -6194,7 +6382,8 @@
             "musical"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "399aa0a1-98e2-4d2b-b297-2b451e9665e1",
@@ -6213,8 +6402,7 @@
           "tags": [
             "family",
             "coaster",
-            "launch",
-            "outdoor"
+            "launch"
           ],
           "rideCategory": "coaster_family",
           "minHeightInches": 38,
@@ -6223,7 +6411,8 @@
               "category": "best_seat",
               "text": "Back rows receive a delightful snappy whip over the bunny hops after the mid-course booster launch."
             }
-          ]
+          ],
+          "environment": "outdoor"
         }
       ]
     },
@@ -6265,7 +6454,8 @@
               "category": "secret",
               "text": "More than 300 intricate animal carvings are sculpted by hand directly into the trunk, branches, and roots."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "b81bf8f4-3d43-47eb-8e27-9e6156112167",
@@ -6287,7 +6477,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "6ef1b126-5b0b-46a1-8608-4fcf98ab92c8",
@@ -6310,7 +6501,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "2a55aee6-c87a-4bda-a3d4-b022693a62a3",
@@ -6333,7 +6525,8 @@
             "nighttime_spectacular"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "4d27b0d7-2b0a-4569-90fa-e79f117ec7ef",
@@ -6352,12 +6545,12 @@
           "tags": [
             "family",
             "animals",
-            "walkthrough",
-            "outdoor"
+            "walkthrough"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a349429a-5ef8-41c4-9a28-84ed4f7a0465",
@@ -6378,7 +6571,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "dd142c0b-622a-4b44-8e22-c0facb2b20a8",
@@ -6399,7 +6593,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
@@ -6420,7 +6615,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d8214ba6-22a7-4a92-8977-bae3779d5c4c",
@@ -6442,7 +6638,8 @@
             "animals"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "24cf863c-b6ba-4826-a056-0b698989cbf7",
@@ -6472,7 +6669,8 @@
               "category": "secret",
               "text": "Feel the sides of your banshee link seat expand and contract — it realistically simulates the creature breathing between your legs."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0",
@@ -6500,7 +6698,8 @@
               "category": "secret",
               "text": "The Shaman of Songs animatronic is the most sophisticated and fluid figure ever engineered by Walt Disney Imagineering."
             }
-          ]
+          ],
+          "environment": "indoor"
         },
         {
           "id": "32e01181-9a5f-4936-8a77-0dace1de836c",
@@ -6519,8 +6718,7 @@
           "tags": [
             "family",
             "animals",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
@@ -6529,7 +6727,8 @@
               "category": "best_seat",
               "text": "Morning or overcast weather is best; animals are significantly more active before the intense afternoon heat."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
@@ -6550,7 +6749,8 @@
             "animals"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
@@ -6569,7 +6769,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "4f391f0e-52be-4f9d-99d6-b3ae0373b43c",
@@ -6588,12 +6789,12 @@
           "tags": [
             "family",
             "transport",
-            "scenic",
-            "outdoor"
+            "scenic"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "fdf62904-8125-4735-81ae-8648dd607399",
@@ -6614,7 +6815,8 @@
             "kids"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "a08d9f84-fbdf-45f3-9b68-645d296de307",
@@ -6635,7 +6837,8 @@
             "acrobatics"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "52be1d78-e0b4-433f-b1ce-0be4f7053813",
@@ -6656,7 +6859,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "95712b31-ceed-4f7d-be3e-3d5e6badac5c",
@@ -6679,7 +6883,8 @@
             "puppets"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e12fb6d6-0985-44e5-bdd3-65ff74433063",
@@ -6698,7 +6903,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "3a4e0f49-f9ff-4481-a95b-d4952cdf6097",
@@ -6726,7 +6932,8 @@
               "category": "best_seat",
               "text": "Every section (Warthog, Elephant, Giraffe, Lion) is involved in audience participation — sit in rows 2–5 for great views."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "64a6915f-a835-4226-ba5c-8389fc4cade3",
@@ -6745,8 +6952,7 @@
           "tags": [
             "thrill",
             "coaster",
-            "single_rider",
-            "outdoor"
+            "single_rider"
           ],
           "rideCategory": "coaster_thrill",
           "minHeightInches": 44,
@@ -6755,7 +6961,8 @@
               "category": "secret",
               "text": "At 199.5 feet, it was built just half a foot below 200 feet to avoid requiring a red flashing FAA aviation beacon on the peak."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "d8497541-53a2-4206-b95f-39cb238ae511",
@@ -6776,7 +6983,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "e7976e25-4322-4587-8ded-fb1d9dcbb83c",
@@ -6795,12 +7003,12 @@
           "tags": [
             "family",
             "animals",
-            "walkthrough",
-            "outdoor"
+            "walkthrough"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d5dfc051-f951-40ac-8774-3e9961331ab9",
@@ -6823,7 +7031,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "6fbe6d02-4057-43bb-80a3-047b1e8a50ca",
@@ -6846,7 +7055,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
@@ -6865,7 +7075,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "f210842b-8c9b-4088-9f48-6284e9ce389a",
@@ -6884,7 +7095,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "d58db4d0-3bad-4655-937b-1cbc9ed0e880",
@@ -6903,7 +7115,8 @@
           "tags": [
             "dining"
           ],
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "f526f3ab-190b-4576-8c79-e2968d171b4e",
@@ -6925,7 +7138,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "1a8ea967-229a-42a0-8290-59b036c84e14",
@@ -6944,12 +7158,12 @@
           "tags": [
             "family",
             "animals",
-            "walkthrough",
-            "outdoor"
+            "walkthrough"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "f7830bfd-3d25-4ba2-8021-b0d429ef0193",
@@ -6970,7 +7184,8 @@
             "music"
           ],
           "showCategory": "stage_show",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "1b15c77b-0311-4171-8e59-7f38e6d60754",
@@ -6993,7 +7208,8 @@
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "indoor"
         },
         {
           "id": "bc997600-fcc0-4f6f-b908-a1419b26cfd8",
@@ -7012,12 +7228,12 @@
           "tags": [
             "family",
             "animals",
-            "walkthrough",
-            "outdoor"
+            "walkthrough"
           ],
           "rideCategory": "scenic_flat",
           "minHeightInches": null,
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         },
         {
           "id": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
@@ -7036,8 +7252,7 @@
           "tags": [
             "water",
             "thrill",
-            "raft",
-            "outdoor"
+            "raft"
           ],
           "rideCategory": "water",
           "minHeightInches": 38,
@@ -7046,7 +7261,8 @@
               "category": "queue_hack",
               "text": "Complimentary 2-hour lockers are located right across from the ride entrance to keep electronics dry."
             }
-          ]
+          ],
+          "environment": "outdoor"
         },
         {
           "id": "13d7c9d1-a785-403d-9ba8-71fee2f02d55",
@@ -7068,7 +7284,8 @@
             "characters"
           ],
           "showCategory": "meet",
-          "tips": []
+          "tips": [],
+          "environment": "outdoor"
         }
       ]
     }
