@@ -28,8 +28,7 @@
     },
     "parkQueueTimes": {
       "type": "authenticated_rest",
-      "baseURL": "https://api.parkqueuetimes.com/v1",
-      "apiKey": "pqt_live_7CHyofMgJUvG7nStfjCnGR1FoEWeLvjzV7hwZLtWd2E"
+      "baseURL": "https://parkstudio-gateway.parkstudio-dev.workers.dev"
     }
   }
 }
