@@ -2695,6 +2695,51 @@
               "all_ages"
             ]
           }
+        },
+        {
+          "id": "uor.usf.shows.horror_make_up_show",
+          "name": "Universal Orlando's Horror Make-Up Show™",
+          "kind": "show",
+          "standby": null,
+          "express": null,
+          "single": null,
+          "showtimes": [],
+          "area": "Universal Hollywood",
+          "status": "operating",
+          "externalIDs": {
+            "uor": "uor.usf.shows.horrormakeupshow",
+            "parkQueueTimes": "universal-orlandos-horror-make-up-show"
+          },
+          "tags": [
+            "comedy",
+            "indoor",
+            "live_show",
+            "special_effects",
+            "theater"
+          ],
+          "showCategory": "stage_show",
+          "tips": [
+            {
+              "category": "insider_secret",
+              "text": "The lobby displays authentic horror movie props and makeup prosthetics from classic Universal monster movies."
+            }
+          ],
+          "environment": "indoor",
+          "durationMinutes": 25,
+          "doorsCutoffMinutes": 10,
+          "relevanceFactor": 0.70,
+          "specs": {
+            "thrillLevel": "mild"
+          },
+          "experience": {
+            "isMustDo": false,
+            "targetAudience": "all_ages",
+            "targetAges": [
+              "tweens",
+              "teens",
+              "adults"
+            ]
+          }
         }
       ]
     },
