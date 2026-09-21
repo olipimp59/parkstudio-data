@@ -55,12 +55,6 @@
           "schedules": {},
           "refurbishments": [
             {
-              "attractionID": "uor.ueu.shows.the_untrainable_dragon",
-              "startDate": "2026-09-15",
-              "endDate": "2026-09-20",
-              "notes": "Scheduled stage maintenance Sept 15-20, 2026."
-            },
-            {
               "attractionID": "uor.ueu.rides.fyre_drill",
               "startDate": "2027-01-25",
               "endDate": "2027-02-04",
