@@ -1865,7 +1865,8 @@
           "area": "Universal Hollywood",
           "status": "operating",
           "externalIDs": {
-            "uor": "uor.usf.shows.mega_movie_parade",
+            "uor": "uor.usf.shows.universalmegamovieparade",
+            "uor_legacy": "uor.usf.shows.mega_movie_parade",
             "parkQueueTimes": "mega-movie-parade"
           },
           "tags": [
@@ -2660,7 +2661,8 @@
           "area": "Universal Hollywood",
           "status": "operating",
           "externalIDs": {
-            "uor": "uor.usf.shows.cinesational",
+            "uor": "uor.usf.shows.cinesationalasymphonicspectacular",
+            "uor_legacy": "uor.usf.shows.cinesational",
             "parkQueueTimes": "cinesational-symphonic-spectacular"
           },
           "tags": [
