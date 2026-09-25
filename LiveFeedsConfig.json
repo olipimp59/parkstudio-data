@@ -30,5 +30,9 @@
       "type": "authenticated_rest",
       "baseURL": "https://parkstudio-gateway.parkstudio-dev.workers.dev"
     }
+  },
+  "engine": {
+    "ideasEnabled": true,
+    "disabledReasons": []
   }
 }
